@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/foundation_web_pro_behruz_v7.html" }
+  ]
+}
